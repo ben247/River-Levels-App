@@ -1,1 +1,1 @@
-GET https://environment.data.gov.uk/flood-monitoring/id/stations
+GET http://environment.data.gov.uk/flood-monitoring/id/stations?riverName=Cherwell
